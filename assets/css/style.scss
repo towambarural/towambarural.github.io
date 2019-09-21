@@ -12,6 +12,7 @@ body {
   background: url("https://source.unsplash.com/n1QrQTA-z9g/1200x800") no-repeat center;
   background-size: cover;
   text-shadow: 1px 1px 4px black;
+  
   &:before {
     content: "";
     position: absolute;
@@ -21,9 +22,18 @@ body {
     bottom: 0;
     background: rgba(0, 0, 0, 0.25);
   }
+  
+  &,
   > * {
     position: relative;
   }
+  .project-name {
+    font-size: 2rem;
+    @media screen and (min-width: 42em) {
+      font-size: 3rem;
+    }
+  }
+  
   .project-tagline {
     opacity: 1;
     text-shadow: 1px 1px 1px black;
