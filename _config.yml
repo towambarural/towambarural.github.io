@@ -1,11 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
-
 theme: jekyll-theme-cayman
----
 title: Towamba Rural
----
 # description: [A short description of your site's purpose]
 # google_analytics: [Your Google Analytics tracking ID]
