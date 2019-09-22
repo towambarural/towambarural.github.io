@@ -1,36 +1,41 @@
-## Towamba's local rural supplier
+## Towamba's Local Rural Supplier
 
-Visit our [shop](https://towambarural.square.site).
+### Located in Towamba Valley, NSW, we stock and sell stockfeed for all farm animals:
+- Cattle
+- Chickens
+- Horses
+- Sheep
+- Rabbits
+- Dogs
+- Cats
 
+### Drenches and vaccinations:
+- Cattle
+- Horses
+- Sheep
 
-### Markdown
+### Tick, flea and worming treatments:
+- Chickens
+- Dogs
+- Cats
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Garden:
+- Sugar cane mulch
+- Wood shavings
 
-```markdown
-Syntax highlighted code block
+### General hardware:
+- Rain guages
+- Feed buckets
+- Teats
+- Marking rings
+- Electric fence insulators
 
-# Header 1
-## Header 2
-### Header 3
+### In-stock soon:
+- Electric fencing
+- Irragtion poly-pipe and connectors
+- Worms hit certified organic fertilizer
+- General hardware; grinding discs, nuts & bolts, screws etc
+- Garden general; gloves, hose fittings etc
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/towambarural/towambarural.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Visit our [shop](https://towambarural.square.site) 
+If we don't have it, we'll source it. Submit an enquiry, or call us on 0490 673 539. 
