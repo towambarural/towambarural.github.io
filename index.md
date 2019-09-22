@@ -1,8 +1,8 @@
 ## Towamba's Local Rural Supplier
 
-Visit our **[online shop](https://towambarural.square.site)**
+Visit our **[online shop](https://towambarural.square.site)** to view our products.
 
-If we don't have it, we'll source it. [Submit an enquiry](mailto:towambarural@gmail.com), or call us on [0490 673 539](callto:+61490673539)
+If we don't have it, we'll source it. [Submit an enquiry](mailto:towambarural@gmail.com), or call us on [0490 673 539](callto:+61490673539).
 
 ### Located in Towamba Valley, NSW, we stock and sell stockfeed for all farm animals:
 - Cattle
