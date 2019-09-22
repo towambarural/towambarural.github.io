@@ -3,12 +3,23 @@
 
 @import "{{ site.theme }}";
 
-$tow-green: #1f6d46;
-$tow-green-light: #1f6d46;
+// Bree Serif font
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif&display=swap');
+
+$tow-green: #456350;
+$tow-green-light: #d2df9c;
+$tow-green-vivid: #52b848;
+
+$font-family-main: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$font-family-heading: 'Bree Serif', $font-family-main;
+
 
 body {
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-  color: #333;
+  font-family: $font-family-main;
+}
+
+h1, h2, h3 {
+  font-family: $font-family-heading;
 }
 
 .page-header {
