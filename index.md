@@ -1,5 +1,9 @@
 ## Towamba's Local Rural Supplier
 
+Visit our **[online shop](https://towambarural.square.site)**
+
+If we don't have it, we'll source it. [Submit an enquiry](mailto:towambarural@gmail.com), or call us on [0490 673 539](callto:+61490673539)
+
 ### Located in Towamba Valley, NSW, we stock and sell stockfeed for all farm animals:
 - Cattle
 - Chickens
@@ -36,6 +40,4 @@
 - Worms hit certified organic fertilizer
 - General hardware; grinding discs, nuts & bolts, screws etc
 - Garden general; gloves, hose fittings etc
-
-Visit our [shop](https://towambarural.square.site) 
-If we don't have it, we'll source it. Submit an enquiry, or call us on 0490 673 539. 
+ 
