@@ -3,6 +3,7 @@ title: Towamba Rural
 # description: [A short description of your site's purpose]
 google_analytics: UA-148458275-1
 
-# plugins:
+plugins:
+  - jekyll-seo-tag
 #   - jekyll-remote-theme
 # remote_theme: benbalter/retlab
