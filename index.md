@@ -1,10 +1,8 @@
 ## Towamba's Local Rural Supplier
 
-Visit our **[online shop](https://towambarural.square.site)** to view our products.
+### Located in Towamba Valley, NSW
 
-If we don't have it, we'll source it. [Submit an enquiry](mailto:towambarural@gmail.com), or call us on [0490 673 539](callto:+61490673539).
-
-### Located in Towamba Valley, NSW, we stock and sell stockfeed for all farm animals:
+### We stock and sell stockfeed for all farm animals:
 - Cattle
 - Chickens
 - Horses
@@ -12,6 +10,7 @@ If we don't have it, we'll source it. [Submit an enquiry](mailto:towambarural@gm
 - Rabbits
 - Dogs
 - Cats
+- [Fabstock supplements](https://www.fabstock.com.au/)
 
 ### Drenches and vaccinations:
 - Cattle
@@ -26,18 +25,26 @@ If we don't have it, we'll source it. [Submit an enquiry](mailto:towambarural@gm
 ### Garden:
 - Sugar cane mulch
 - Wood shavings
+- Potting Mix
+- [Worm hit fertiliser](https://www.wormhit.com.au/)
 
 ### General hardware:
 - Rain guages
 - Feed buckets
 - Teats
-- Marking rings
-- Electric fence insulators
+- Marking paint and rings
 
-### In-stock soon:
-- Electric fencing
-- Irragtion poly-pipe and connectors
-- Worms hit certified organic fertilizer
-- General hardware; grinding discs, nuts & bolts, screws etc
-- Garden general; gloves, hose fittings etc
+### Fencing:
+- Fencing wire
+- Gates
+- Strainers post, Galvanised and Black Steel posts , stays and accessories
+- Cement
+- [Thunderbird Electric fencing](https://www.thunderbird.net.au/)
+- [AWP fencing products](http://australwire.com.au/)
+
+---------
  
+Visit our **[online shop](https://towambarural.square.site)** to view our products.
+
+If we don't have it, we'll source it. [Submit an enquiry](mailto:towambarural@gmail.com), or call us on [0490 673 539](callto:+61490673539).
+
